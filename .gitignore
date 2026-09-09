@@ -188,3 +188,6 @@ _logs/
 # Local backups
 *.bak
 *.bak-*
+
+# Runtime locks
+.locks/
