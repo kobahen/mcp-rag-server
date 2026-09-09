@@ -176,3 +176,15 @@ cython_debug/
 .DS_Store
 data/processed/file_registry.json
 data/processed/*.md
+
+# Local RAG runtime data
+data/source/
+data/processed.bak_*/
+
+# Runtime logs
+logs/
+_logs/
+
+# Local backups
+*.bak
+*.bak-*
